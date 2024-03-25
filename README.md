@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/whoisclebs/api.spk.chat?label=version">
+  <img src="https://img.shields.io/github/v/tag/whoisclebs/api.spk.chat">
   <img src="https://img.shields.io/github/actions/workflow/status/whoisclebs/api.spk.chat/test.yml">
   <img src="https://img.shields.io/badge/license-MIT-green">
   <img alt="Codecov branch" src="https://img.shields.io/codecov/c/github/whoisclebs/api.spk.chat/main">
